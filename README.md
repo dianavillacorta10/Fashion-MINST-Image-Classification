@@ -1,4 +1,4 @@
-# Fashion-MINST-Image-Classification
+[[[# Fashion-MINST-Image-Classification
 
 #1.What is the Fashion MNIST dataset?
    Is a publicly available image dataset used mainly for machine learning and deep learning, especially for image classification tasks.
@@ -20,3 +20,4 @@
 
 
 
+](https://colab.research.google.com/drive/1rRBOz8_Yi0HHT7VLz9Bw3FHzFovkAC1O?usp=drive_link)](https://colab.research.google.com/drive/1rRBOz8_Yi0HHT7VLz9Bw3FHzFovkAC1O?usp=drive_link)](https://colab.research.google.com/drive/1rRBOz8_Yi0HHT7VLz9Bw3FHzFovkAC1O?usp=drive_link)
