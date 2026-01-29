@@ -16,5 +16,7 @@
 #6.What could be done to improve the model’s accuracy?
    Focus on CNN architectures, proper preprocessing, regularization, and hyperparameter tuning — these give the biggest accuracy gains for image classification tasks like Fashion MNIST.
 
+   .[This is the link of my Google Colab:]("https://colab.research.google.com/drive/1rRBOz8_Yi0HHT7VLz9Bw3FHzFovkAC1O?usp=drive_link")
+
 
 
