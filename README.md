@@ -15,7 +15,7 @@
 #4.What does an epoch mean in model training?
    An epoch is one complete pass of the entire training dataset through the model, during which the model updates its weights based on the computed errors.
    
-#5.Compare the predicted label and actual label for the first test image.
+#5.Compare the predicted label and actual label for the first test image?
    The predicted label is what the model thinks the image is, and we check if it matches the actual label to see if it got it right.
 
 #6.What could be done to improve the model’s accuracy?
