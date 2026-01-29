@@ -4,7 +4,7 @@
    Is a publicly available image dataset used mainly for machine learning and deep learning, especially for image classification tasks.
    
 #2.Why do we normalize image pixel values before training?
-   We normalize image pixel values before training to make the learning process faster, more stable, and more accurate.Normalization makes training smoother, faster, and more reliable by      keeping pixel values within a manageable range.
+   We normalize image pixel values before training to make the learning process faster, more stable, and more accurate.Normalization makes training smoother,faster,and more reliable by      keeping pixel values within a manageable range.
    
 #3.List the layers used in the neural network and their functions.
    1.Input layer – Accepts the 28×28 grayscale image (784 pixel values) as the model’s input.
